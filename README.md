@@ -19,6 +19,7 @@ Suitable for exploratory data analysis (EDA) and production reporting
 
 **Typical Import**
 
+
 **import matplotlib.pyplot as plt**
 
 Matplotlib is widely adopted in data science, machine learning, research, and statistical analysis workflows due to its flexibility, reliability, and strong community support.
